@@ -1,0 +1,56 @@
+Summary for worms.jar
+Decompiled with CFR 0.152
+
+
+a
+----------------------------
+
+g()
+  Unable to fully structure code
+
+
+ae
+----------------------------
+
+a(d )
+  Unable to fully structure code
+
+
+ai
+----------------------------
+
+b()
+  Unable to fully structure code
+n()
+  Unable to fully structure code
+  Could not resolve type clashes
+q()
+  Unable to fully structure code
+  Could not resolve type clashes
+h(int )
+  Unable to fully structure code
+
+
+s
+----------------------------
+
+a(b )
+  Handled duff style switch with additional control
+
+
+y
+----------------------------
+
+a(o )
+  Unable to fully structure code
+a(long )
+  Unable to fully structure code
+c(int )
+  Unable to fully structure code
+r(int )
+  Unable to fully structure code
+x()
+  Unable to fully structure code
+  Could not resolve type clashes
+z()
+  Unable to fully structure code
